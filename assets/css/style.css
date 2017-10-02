@@ -7,6 +7,10 @@ body {
     margin-bottom: 60px;
 }
 
+.main { 
+    margin-bottom: 30px;
+}
+
 .footer {
     position: absolute;
     bottom: 0;
